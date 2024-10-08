@@ -1,0 +1,431 @@
+"NetID","date","site","sample_n","macrophyte","macrophyte_dw","epiphytic_algae","epiphytic_algae_sp","Amphibalanus_improvisus","Ampullaceana_balthica","Anellidae_sp.","Bivalvia_sp.","Cerastoderma_glaucum.Parvicardium_exiguum","Chironomid_larva_pupa","Cordylophora_caspia","Cyanophthalma_obscura","Dugesiidae_sp.","Dytiscidae_sp.","Electra_crustulenta","Gammarus_sp.","Hediste_diversicolor","Hydrobiidae.Tateidae_sp.","Idotea_baltica","Idotea_chelipes","Idotea_granulosa","Insect_larva_pupa_others","Jaera_albifrons","Leptocheirus_pilosus","Limapontia_sp.","Mytilus_trossulus.Mytilopsis_leucophaeata","Nematoda_sp.","Palaemon_sp.","Physa_fontinalis","Piscicola_sp.","Potamopyrgus_antipodarum","Sinelobus_vanhaareni","Stylaria_lacustris","Theodoxus_fluviatilis"
+"Oct_2021_SP","Oct_2021","Spikarna","SP_01","Phyllophora_pseudoceranoides","0.15","yes","Ceramium sp.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Oct_2021_SP","Oct_2021","Spikarna","SP_02","Phyllophora_pseudoceranoides","0.13","yes","Ceramium sp.",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Oct_2021_SP","Oct_2021","Spikarna","SP_03","Phyllophora_pseudoceranoides","0.26","yes","Furcellaria sp., Ceramium sp.",0,2,0,0,0,0,0,2,0,0,0,0,0,5,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Oct_2021_SP","Oct_2021","Spikarna","SP_04","Phyllophora_pseudoceranoides","0.32","yes","Ceramium sp.",0,3,0,0,0,0,0,0,0,0,0,5,0,6,1,6,0,0,0,0,0,4,0,0,0,0,0,0,0,4
+"Oct_2021_SP","Oct_2021","Spikarna","SP_05","Phyllophora_pseudoceranoides","0.26","yes","Ceramium sp.",0,0,0,0,2,0,0,0,0,0,0,6,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Oct_2021_SP","Oct_2021","Spikarna","SP_06","Furcellaria_sp.","2.29","yes","Ceramium sp.",1,4,0,0,4,0,0,0,6,0,1,1,0,2,0,9,0,0,1,0,0,8,0,0,0,0,0,0,0,9
+"Oct_2021_SP","Oct_2021","Spikarna","SP_07","Furcellaria_sp.","0.63","yes","Ceramium sp.",1,1,0,0,2,0,0,0,1,0,0,0,1,2,1,2,0,0,0,0,1,29,0,0,0,0,0,0,0,5
+"Oct_2021_SP","Oct_2021","Spikarna","SP_08","Furcellaria_sp.","1.25","yes","Ceramium sp., Ulva sp., Phyllophora sp., Cladophora rupestris",0,11,0,0,1,0,0,0,2,1,0,2,0,21,0,10,0,0,1,0,0,20,0,0,0,0,0,0,0,7
+"Oct_2021_SP","Oct_2021","Spikarna","SP_09","Furcellaria_sp.","2.4","yes","Ceramium sp., Cladophora rupestris",0,6,0,0,0,0,0,2,4,0,1,7,0,1,1,5,0,0,1,0,0,8,0,0,0,0,0,0,0,0
+"Oct_2021_SP","Oct_2021","Spikarna","SP_10","Furcellaria_sp.","4.98","no","no_info",0,7,0,0,2,0,0,0,20,0,1,0,1,28,0,4,0,0,4,0,0,46,0,0,0,0,0,0,0,6
+"Oct_2021_SP","Oct_2021","Spikarna","SP_11","Stuckenia_pectinata","0.52","no","no_info",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_SP","Oct_2021","Spikarna","SP_12","Stuckenia_pectinata","2.06","no","no_info",3,3,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,8
+"Oct_2021_SP","Oct_2021","Spikarna","SP_13","Stuckenia_pectinata","1.28","no","no_info",0,9,0,0,0,0,0,1,0,0,0,3,0,3,0,19,0,0,0,0,0,1,0,0,0,2,0,0,0,0
+"Oct_2021_SP","Oct_2021","Spikarna","SP_14","Stuckenia_pectinata","6.7","no","no_info",2,1,0,0,0,0,1,0,0,0,0,2,0,1,1,38,0,0,0,0,0,0,0,0,0,0,0,0,0,42
+"Oct_2021_SP","Oct_2021","Spikarna","SP_15","Stuckenia_pectinata","5.16","no","no_info",23,8,0,0,0,0,0,0,1,0,1,1,0,0,0,49,0,0,0,0,0,2,0,0,0,1,0,0,0,16
+"Oct_2021_SP","Oct_2021","Spikarna","SP_16","Polyshiponia_fibrillosa","1.5","yes","no_info",0,9,0,0,1,0,0,0,21,0,0,3,0,15,0,7,0,0,0,0,0,1,0,0,0,0,0,0,0,8
+"Oct_2021_SP","Oct_2021","Spikarna","SP_17","Polyshiponia_fibrillosa","1.24","no","no_info",0,7,0,0,0,0,0,0,2,0,0,0,0,30,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Oct_2021_SP","Oct_2021","Spikarna","SP_18","Polyshiponia_fibrillosa","0.68","no","no_info",0,6,0,0,0,0,0,0,3,0,0,1,0,27,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+"Oct_2021_SP","Oct_2021","Spikarna","SP_19","Polyshiponia_fibrillosa","2.27","no","no_info",0,17,0,0,1,0,0,0,0,0,0,10,0,76,0,13,0,0,0,0,6,1,0,0,0,0,0,0,0,36
+"Oct_2021_SP","Oct_2021","Spikarna","SP_20","Polyshiponia_fibrillosa","0.5","no","no_info",0,14,0,0,0,0,0,0,0,0,0,6,0,65,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,7
+"Oct_2021_SP","Oct_2021","Spikarna","SP_21","Zanichellia_sp.","0.21","no","no_info",0,8,0,0,0,0,0,0,0,0,0,0,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Oct_2021_SP","Oct_2021","Spikarna","SP_22","Zanichellia_sp.","0.05","no","no_info",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Oct_2021_SP","Oct_2021","Spikarna","SP_23","Zanichellia_sp.","0.08","no","no_info",0,10,0,0,0,0,0,0,0,0,0,2,0,2,0,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+"Oct_2021_SP","Oct_2021","Spikarna","SP_24","Zanichellia_sp.","0.09","no","no_info",0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Oct_2021_SP","Oct_2021","Spikarna","SP_25","Zanichellia_sp.","0.2","no","no_info",0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+"Oct_2021_SP","Oct_2021","Spikarna","SP_26","Fucus_vesiculosus","6.04","no","no_info",2,17,0,0,0,0,0,0,0,0,1,2,0,3,3,3,0,0,0,0,0,11,0,0,0,0,0,0,0,43
+"Oct_2021_SP","Oct_2021","Spikarna","SP_27","Fucus_vesiculosus","56.61","no","no_info",27,55,0,0,1,0,0,0,0,0,1,6,0,9,8,4,0,0,0,0,0,34,0,0,0,0,0,0,0,89
+"Oct_2021_SP","Oct_2021","Spikarna","SP_28","Fucus_vesiculosus","49.25","no","no_info",137,60,0,0,0,0,0,0,0,0,1,39,0,0,1,84,0,0,0,0,0,69,0,0,0,0,0,0,0,230
+"Oct_2021_SP","Oct_2021","Spikarna","SP_29","Fucus_vesiculosus","16.66","no","no_info",45,68,0,0,0,0,0,0,0,0,1,1,0,2,1,3,0,0,0,0,0,23,0,0,0,0,0,0,0,112
+"Oct_2021_SP","Oct_2021","Spikarna","SP_30","Fucus_vesiculosus","23.88","no","no_info",15,18,0,0,0,0,0,0,0,0,1,7,0,1,1,15,0,0,0,0,0,36,0,0,0,0,0,0,0,137
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_01","Zanichellia_sp.","0.08","no","no_info",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,23,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_02","Zanichellia_sp.","0.61","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_03","Zanichellia_sp.","0.22","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_04","Zanichellia_sp.","0.43","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_05","Potamogeton_perfoliatus","0.4","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_06","Potamogeton_perfoliatus","0.3","no","no_info",0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_07","Potamogeton_perfoliatus","0.41","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,3,0,11,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_08","Potamogeton_perfoliatus","0.83","yes","filamentous drift algae",0,0,0,0,0,0,0,1,0,0,0,4,0,5,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_09","Potamogeton_perfoliatus","0.31","yes","filamentous drift algae",0,0,0,0,0,1,0,0,0,0,0,3,0,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_10","Potamogeton_perfoliatus","0.39","yes","filamentous drift algae",0,0,0,0,0,1,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_11","Myriophyllum_spicatum","0.15","yes","filamentous drift algae",0,0,0,0,0,1,0,0,0,0,0,4,0,7,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_12","Myriophyllum_spicatum","0.07","yes","filamentous drift algae",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_13","Myriophyllum_spicatum","0.31","yes","filamentous drift algae",0,0,0,0,0,1,0,0,0,0,0,2,0,4,0,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_14","Myriophyllum_spicatum","0.24","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,6,0,3,0,17,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_15","Myriophyllum_spicatum","0.12","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_16","Myriophyllum_spicatum","0.22","yes","filamentous drift algae",0,1,0,0,0,0,0,0,0,0,0,2,0,1,0,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_19","Stuckenia_pectinata","1.18","yes","filamentous drift algae",0,0,0,0,0,1,0,0,0,0,1,17,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_20","Stuckenia_pectinata","1.49","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_21","Zanichellia_sp.","0.69","no","no_info",0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKI","Oct_2021","Henriksberg","HKI_22","Stuckenia_pectinata","2.51","no","no_info",0,1,0,0,1,0,0,0,0,0,1,10,0,7,0,61,0,2,0,0,0,0,0,0,0,0,0,0,0,1
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_01","Zostera_marina","0.11","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_02","Zostera_marina","0.1","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_03","Zostera_marina","0.21","no","no_info",0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_04","Zostera_marina","0.1","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_05","Zostera_marina","0.13","no","no_info",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_06","Myriophyllum_spicatum","0.12","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,20,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_07","Myriophyllum_spicatum","0.1","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,27,0,1,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,3
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_08","Myriophyllum_spicatum","0.05","no","no_info",0,0,0,0,0,0,0,0,0,0,0,12,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_09","Myriophyllum_spicatum","0.09","yes","filamentous drift algae",0,0,0,0,1,0,0,0,0,0,0,18,0,1,1,9,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_10","Myriophyllum_spicatum","0.12","no","no_info",0,0,0,0,1,1,0,0,0,0,0,13,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_11","Myriophyllum_spicatum","0.06","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_12","Potamogeton_perfoliatus","0.06","no","no_info",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_13","Potamogeton_perfoliatus","0.12","yes","filamentous drift algae",0,0,0,0,6,0,0,0,0,0,0,27,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_14","Potamogeton_perfoliatus","0.08","no","no_info",0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_15","Potamogeton_perfoliatus","0.16","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,17,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_16","Potamogeton_perfoliatus","0.24","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_17","Stuckenia_pectinata","0.93","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,55,0,0,1,15,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_18","Stuckenia_pectinata","1.88","yes","filamentous drift algae",1,0,0,0,0,0,0,0,0,0,0,30,0,0,3,44,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_19","Stuckenia_pectinata","0.7","yes","filamentous drift algae",1,0,0,0,0,0,0,0,0,0,1,7,0,0,1,7,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_20","Stuckenia_pectinata","0.31","yes","filamentous drift algae",0,0,0,0,1,0,0,0,0,0,0,14,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_21","Stuckenia_pectinata","0.37","yes","filamentous drift algae",0,0,0,0,4,1,0,0,0,0,0,35,0,2,1,11,0,0,3,0,0,7,0,0,0,0,0,0,0,0
+"Oct_2021_HKO","Oct_2021","Henriksberg","HKO_22","Stuckenia_pectinata","0.59","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,53,1,0,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_01","Myriophyllum_spicatum","0.22","yes","filamentous drift algae",0,0,0,0,0,12,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,3,0,2
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_02","Myriophyllum_spicatum","0.19","yes","filamentous drift algae",0,0,0,0,4,0,0,0,0,0,0,4,0,8,0,5,0,0,0,0,0,0,0,0,0,0,0,2,0,3
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_03","Myriophyllum_spicatum","0.04","no","no_info",0,0,0,0,0,6,0,0,0,0,0,1,0,11,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_04","Myriophyllum_spicatum","0.33","yes","filamentous drift algae",0,0,1,0,1,19,0,0,0,0,0,0,0,4,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_05","Myriophyllum_spicatum","0.36","no","no_info",0,0,0,0,4,3,0,0,0,0,1,4,0,8,0,12,0,0,0,0,0,0,0,0,0,0,3,1,0,3
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_06","Fucus_vesiculosus","54.01","no","no_info",75,5,0,0,34,2,0,0,0,0,1,47,0,11,3,1,0,0,0,29,0,21,0,6,0,0,0,11,0,56
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_07","Fucus_vesiculosus","12.43","no","no_info",35,2,0,0,1,0,0,0,0,0,1,19,0,5,2,0,0,0,2,6,0,5,0,0,0,0,0,5,0,22
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_08","Fucus_vesiculosus","14.12","no","no_info",20,13,0,0,4,1,1,0,0,0,1,11,0,16,0,0,0,0,0,14,3,8,0,2,0,0,0,2,0,31
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_09","Fucus_vesiculosus","31.17","no","no_info",75,8,0,0,12,4,0,0,1,0,1,16,0,2,0,1,0,0,6,21,0,14,0,1,0,0,0,10,0,56
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_10","Fucus_vesiculosus","27.62","no","no_info",75,8,0,0,14,4,0,0,0,0,1,57,0,7,1,3,0,1,0,8,1,8,0,0,0,0,0,0,0,74
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_11","Potamogeton_perfoliatus","0.19","no","no_info",0,0,0,0,0,4,0,0,0,0,1,1,0,23,0,0,0,0,0,1,2,1,0,0,0,0,1,2,0,1
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_12","Potamogeton_perfoliatus","0.28","no","no_info",0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,4
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_13","Potamogeton_perfoliatus","0.26","no","no_info",0,0,0,0,0,5,0,0,0,0,1,4,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_14","Potamogeton_perfoliatus","0.32","no","no_info",0,0,0,0,1,8,0,0,0,0,1,3,0,7,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,5
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_15","Potamogeton_perfoliatus","0.15","no","no_info",0,0,0,0,2,4,0,0,0,0,1,0,0,9,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,5
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_16","Stuckenia_pectinata","0.77","no","no_info",0,0,0,0,5,5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_17","Stuckenia_pectinata","0.66","no","no_info",0,0,0,0,0,3,0,0,0,0,1,0,0,0,1,4,0,0,0,0,0,5,0,0,0,2,0,0,0,0
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_18","Stuckenia_pectinata","0.92","no","no_info",0,0,0,0,3,0,0,0,0,0,1,9,0,6,0,5,0,0,0,4,3,0,0,0,0,0,0,0,0,9
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_19","Stuckenia_pectinata","0.1","no","no_info",0,0,0,0,1,1,0,0,0,0,1,0,0,8,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+"Oct_2021_ABI","Oct_2021","Angbat","ABI_20","Stuckenia_pectinata","0.45","no","no_info",0,0,0,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_01","Myriophyllum_spicatum","0.56","no","no_info",0,0,0,0,1,9,0,0,0,0,0,4,0,2,0,2,0,0,0,2,0,0,0,0,0,0,0,5,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_02","Myriophyllum_spicatum","1.09","yes","filamentous drift algae",9,0,0,0,8,10,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,14,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_03","Myriophyllum_spicatum","0.8","no","no_info",4,0,0,0,2,27,0,2,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_04","Myriophyllum_spicatum","0.3","no","no_info",2,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_05","Myriophyllum_spicatum","0.18","no","no_info",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_06","Potamogeton_perfoliatus","0.27","no","no_info",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_07","Potamogeton_perfoliatus","0.35","no","no_info",0,0,0,0,0,8,0,0,0,0,1,1,0,6,0,0,0,0,0,1,0,1,0,0,0,0,3,7,0,1
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_08","Potamogeton_perfoliatus","0.42","no","no_info",2,0,0,0,0,9,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_09","Potamogeton_perfoliatus","0.08","no","no_info",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,1
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_10","Potamogeton_perfoliatus","0.17","no","no_info",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_11","Zostera_marina","0.1","no","no_info",0,0,0,0,0,1,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_12","Zostera_marina","0.19","no","no_info",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_13","Zostera_marina","0.22","no","no_info",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_14","Zostera_marina","0.17","no","no_info",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_15","Zostera_marina","0.14","no","no_info",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_16","Stuckenia_pectinata","0.44","no","no_info",1,0,0,0,2,11,0,1,0,0,1,1,0,2,0,0,0,0,0,1,0,1,0,0,0,0,0,12,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_17","Stuckenia_pectinata","0.37","no","no_info",0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_18","Stuckenia_pectinata","0.63","no","no_info",1,0,0,0,1,8,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,10,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_19","Stuckenia_pectinata","0.38","no","no_info",0,0,0,0,0,6,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,9,0,0
+"Oct_2021_ABO","Oct_2021","Angbat","ABO_20","Stuckenia_pectinata","0.77","no","no_info",2,0,0,0,2,17,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,3,0,0,0,0,0,22,0,0
+"Jul_2022_SP","Jul_2022","Spikarna","SP_31","Fucus_vesiculosus","34.97","yes","filamentous drift algae",7,116,0,0,0,53,0,1,1,0,1,147,0,3,21,5,4,0,4,0,0,1,0,0,0,0,0,0,0,27
+"Jul_2022_SP","Jul_2022","Spikarna","SP_32","Fucus_vesiculosus","43.85","yes","filamentous drift algae",11,60,0,0,0,31,0,1,0,0,1,256,0,34,40,12,7,0,11,0,0,1,0,0,0,0,0,0,0,161
+"Jul_2022_SP","Jul_2022","Spikarna","SP_33","Fucus_vesiculosus","35.4","yes","filamentous drift algae",7,10,0,0,0,7,0,0,0,0,1,84,0,9,9,2,3,0,6,0,0,2,0,0,0,0,0,0,0,91
+"Jul_2022_SP","Jul_2022","Spikarna","SP_34","Fucus_vesiculosus","23.31","yes","filamentous drift algae",4,17,0,1,0,12,0,6,3,0,1,46,0,34,19,7,3,0,26,0,0,13,0,0,0,0,0,0,0,87
+"Jul_2022_SP","Jul_2022","Spikarna","SP_35","Fucus_vesiculosus","42.65","yes","filamentous drift algae",11,94,0,0,0,23,0,0,0,0,1,3,0,0,12,4,1,0,7,1,0,0,0,0,0,0,0,0,0,82
+"Jul_2022_SP","Jul_2022","Spikarna","SP_37","Zanichellia_sp.","0.02","no","no_info",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_SP","Jul_2022","Spikarna","SP_39","Zanichellia_sp.","0.08","no","no_info",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_SP","Jul_2022","Spikarna","SP_40","Zanichellia_sp.","0.08","no","no_info",0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Jul_2022_SP","Jul_2022","Spikarna","SP_41","Stuckenia_pectinata","0.93","yes","filamentous drift algae",0,6,0,0,0,0,0,0,0,0,0,1,0,13,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Jul_2022_SP","Jul_2022","Spikarna","SP_42","Stuckenia_pectinata","2.02","yes","filamentous drift algae",0,19,0,0,0,0,0,0,0,0,0,0,0,8,0,10,0,0,0,0,0,1,0,0,0,1,0,0,0,5
+"Jul_2022_SP","Jul_2022","Spikarna","SP_43","Stuckenia_pectinata","0.25","no","no_info",0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_SP","Jul_2022","Spikarna","SP_44","Stuckenia_pectinata","3.26","yes","filamentous drift algae",0,11,0,0,0,0,0,1,0,0,0,2,0,14,0,11,0,0,1,0,0,7,0,0,0,0,0,0,0,18
+"Jul_2022_SP","Jul_2022","Spikarna","SP_45","Stuckenia_pectinata","0.46","no","no_info",0,1,0,0,0,0,0,1,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_SP","Jul_2022","Spikarna","SP_46","Turf_brown_algae","1.11","no","no_info",0,20,0,0,0,0,0,0,0,0,0,7,0,16,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,16
+"Jul_2022_SP","Jul_2022","Spikarna","SP_47","Turf_brown_algae","1.04","no","no_info",0,15,0,0,0,0,0,0,1,0,0,4,0,32,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,4
+"Jul_2022_SP","Jul_2022","Spikarna","SP_48","Turf_brown_algae","0.85","no","no_info",0,8,0,0,0,0,0,1,0,0,0,0,0,27,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,5
+"Jul_2022_SP","Jul_2022","Spikarna","SP_49","Turf_brown_algae","2.23","no","no_info",0,10,0,0,0,0,0,0,0,0,0,5,0,24,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,9
+"Jul_2022_SP","Jul_2022","Spikarna","SP_50","Turf_brown_algae","1.08","no","no_info",0,8,0,0,0,0,0,3,0,0,0,10,0,17,0,0,3,0,1,0,0,2,0,0,0,0,0,0,0,31
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_23","Potamogeton_perfoliatus","0.47","no","no_info",0,0,0,0,0,4,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_25","Potamogeton_perfoliatus","0.32","no","no_info",0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_26","Potamogeton_perfoliatus","0.26","no","no_info",0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_27","Potamogeton_perfoliatus","0.45","no","no_info",0,0,0,0,0,1,0,0,0,0,0,19,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_28","Toluipella_nidifica","0.08","no","no_info",0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_30","Toluipella_nidifica","0.02","no","no_info",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_31","Toluipella_nidifica","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_32","Toluipella_nidifica","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_33","Zostera_marina","0.6","no","no_info",0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_34","Zostera_marina","0.53","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_35","Zostera_marina","0.3","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_36","Zostera_marina","0.65","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_37","Zostera_marina","0.41","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_38","Zostera_marina","0.26","yes","filamentous drift algae",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_39","Zanichellia_sp.","0.08","no","no_info",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_41","Zanichellia_sp.","0.02","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_42","Zanichellia_sp.","0.05","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_43","Zanichellia_sp.","0.02","no","no_info",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_45","Stuckenia_pectinata","0.84","yes","filamentous drift algae",0,0,0,0,0,11,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Jul_2022_HKO","Jul_2022","Henriksberg","HKO_47","Stuckenia_pectinata","0.8","no","no_info",0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_23","Zanichellia_sp.","0.01","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_24","Zanichellia_sp.","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_25","Zanichellia_sp.","0.04","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_26","Zanichellia_sp.","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_27","Zanichellia_sp.","0.04","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_28","Myriophyllum_spicatum","0.1","no","no_info",0,0,0,0,0,10,0,0,0,0,0,2,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_29","Myriophyllum_spicatum","0.12","no","no_info",0,0,0,0,0,1,0,0,0,0,0,7,0,0,0,10,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_30","Myriophyllum_spicatum","0.11","no","no_info",0,0,0,0,0,2,0,0,0,0,0,10,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_31","Myriophyllum_spicatum","0.18","no","no_info",0,0,0,0,0,5,0,0,0,0,0,41,0,0,0,25,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_32","Myriophyllum_spicatum","0.09","no","no_info",0,0,0,0,0,10,0,0,0,0,0,4,0,0,0,11,0,0,5,0,0,0,0,0,0,0,0,1,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_33","Stuckenia_pectinata","0.47","no","no_info",0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_34","Stuckenia_pectinata","0.17","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_35","Stuckenia_pectinata","0.56","no","no_info",0,0,0,0,0,6,0,0,0,0,0,6,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_37","Stuckenia_pectinata","1.11","yes","filamentous drift algae",0,0,0,0,0,8,0,0,0,0,0,9,0,2,0,4,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_38","Zostera_marina","0.42","no","no_info",0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,4,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_39","Zostera_marina","0.49","no","no_info",0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_40","Zostera_marina","1.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_42","Zostera_marina","0.18","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_43","Potamogeton_perfoliatus","0.44","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_44","Potamogeton_perfoliatus","0.53","no","no_info",0,0,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_45","Potamogeton_perfoliatus","0.95","no","no_info",0,0,0,0,0,1,0,0,0,0,0,8,0,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_HKI","Jul_2022","Henriksberg","HKI_47","Potamogeton_perfoliatus","0.09","no","no_info",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_21","Ceratophyllum_demersum","0.04","no","no_info",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_22","Ceratophyllum_demersum","0.04","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_24","Ceratophyllum_demersum","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_25","Ceratophyllum_demersum","0.09","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_26","Zostera_marina","0.13","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_28","Zostera_marina","0.07","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_29","Zostera_marina","0.47","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_30","Zostera_marina","0.28","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_31","Zostera_marina","0.59","no","no_info",0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_32","Myriophyllum_spicatum","0.12","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_34","Myriophyllum_spicatum","0.07","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_35","Myriophyllum_spicatum","0.08","no","no_info",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_36","Potamogeton_perfoliatus","0.17","no","no_info",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_37","Potamogeton_perfoliatus","0.24","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_38","Potamogeton_perfoliatus","0.12","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_39","Potamogeton_perfoliatus","0.09","no","no_info",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_40","Potamogeton_perfoliatus","0.13","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_41","Stuckenia_pectinata","0.18","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_42","Zanichellia_sp.","0.07","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_44","Zanichellia_sp.","0.04","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_45","Zanichellia_sp.","0.04","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_47","Stuckenia_pectinata","0.13","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABO","Jul_2022","Angbat","ABO_48","Stuckenia_pectinata","0.14","no","no_info",0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_21","Myriophyllum_spicatum","0.68","yes","no_info",0,0,0,0,0,7,0,1,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_22","Myriophyllum_spicatum","0.37","no","no_info",0,1,0,0,0,3,0,1,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_24","Myriophyllum_spicatum","0.06","no","no_info",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_25","Myriophyllum_spicatum","0.24","no","no_info",0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_26","Fucus_vesiculosus","16","yes","filamentous drift algae",1,23,0,0,0,8,0,1,0,0,1,11,0,2,0,1,0,0,5,4,0,2,0,0,0,0,0,3,0,40
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_27","Fucus_vesiculosus","18.22","yes","filamentous drift algae",65,93,0,0,1,2,0,0,3,0,1,13,0,1,0,0,0,0,1,9,0,4,0,0,0,0,0,0,0,20
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_28","Fucus_vesiculosus","20.3","yes","filamentous drift algae",35,39,0,0,1,11,0,0,0,0,1,117,0,5,0,1,0,0,6,18,0,18,0,0,0,0,0,9,0,29
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_29","Fucus_vesiculosus","16.56","yes","filamentous drift algae",35,6,0,0,0,6,0,0,0,0,1,18,0,2,0,0,0,0,2,4,0,3,0,0,0,0,0,2,0,31
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_30","Fucus_vesiculosus","12.64","yes","filamentous drift algae",2,9,0,0,1,0,0,2,0,0,1,33,0,32,0,1,0,0,2,1,0,2,0,1,0,0,0,3,0,26
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_31","Potamogeton_perfoliatus","0.14","no","no_info",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_32","Potamogeton_perfoliatus","0.37","no","no_info",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_33","Potamogeton_perfoliatus","0.74","no","no_info",0,4,0,0,0,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_34","Potamogeton_perfoliatus","0.46","no","no_info",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_35","Potamogeton_perfoliatus","0.51","no","no_info",0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_36","Stuckenia_pectinata","0.35","no","no_info",0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_37","Stuckenia_pectinata","0.26","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_38","Stuckenia_pectinata","0.12","no","no_info",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_39","Stuckenia_pectinata","0.28","no","no_info",0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Jul_2022_ABI","Jul_2022","Angbat","ABI_40","Stuckenia_pectinata","0.1","no","no_info",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_SP","Aug_2022","Spikarna","SP_51","Fucus_vesiculosus","38.23","no","no_info",0,42,0,0,1,0,0,0,2,0,0,83,0,30,30,29,13,0,0,0,0,49,0,0,0,0,0,0,0,101
+"Aug_2022_SP","Aug_2022","Spikarna","SP_52","Fucus_vesiculosus","38.66","no","no_info",0,20,0,0,0,0,0,0,70,0,0,37,0,18,34,0,0,0,0,0,0,21,0,0,0,0,0,0,0,171
+"Aug_2022_SP","Aug_2022","Spikarna","SP_53","Fucus_vesiculosus","45","no","no_info",0,0,0,0,0,0,0,25,0,0,0,51,0,12,5,6,0,0,9,0,0,1,0,0,0,0,0,0,0,173
+"Aug_2022_SP","Aug_2022","Spikarna","SP_54","Fucus_vesiculosus","46.47","no","no_info",2,7,0,0,0,0,0,0,7,0,1,49,0,5,20,2,0,0,1,0,0,9,0,0,0,0,0,0,0,74
+"Aug_2022_SP","Aug_2022","Spikarna","SP_55","Fucus_vesiculosus","31.86","no","no_info",4,4,0,0,0,0,0,0,20,0,0,6,0,4,3,5,0,0,0,0,0,2,0,0,0,0,0,0,0,51
+"Aug_2022_SP","Aug_2022","Spikarna","SP_57","Zanichellia_sp.","0.07","no","no_info",0,1,0,0,0,0,0,0,0,0,0,0,1,2,11,36,26,0,0,0,0,1,0,0,0,0,0,0,0,1
+"Aug_2022_SP","Aug_2022","Spikarna","SP_58","Zanichellia_sp.","0.2","no","no_info",0,7,0,0,0,0,0,0,5,0,0,2,0,9,13,40,6,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Aug_2022_SP","Aug_2022","Spikarna","SP_59","Zanichellia_sp.","0.23","no","no_info",0,1,0,0,0,0,0,0,0,0,0,0,0,0,19,37,3,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Aug_2022_SP","Aug_2022","Spikarna","SP_60","Zanichellia_sp.","0.31","no","no_info",0,14,0,0,0,0,0,0,1,0,0,0,0,11,32,12,7,0,0,0,0,2,0,0,0,0,0,0,0,1
+"Aug_2022_SP","Aug_2022","Spikarna","SP_61","Stuckenia_pectinata","0.44","no","no_info",0,11,0,0,0,2,0,0,0,0,0,0,0,2,5,6,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+"Aug_2022_SP","Aug_2022","Spikarna","SP_62","Stuckenia_pectinata","0.36","no","no_info",0,30,0,0,0,0,0,0,0,0,0,1,0,0,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_SP","Aug_2022","Spikarna","SP_63","Stuckenia_pectinata","0.99","no","no_info",0,26,0,0,0,0,1,0,0,0,0,0,0,0,15,37,0,0,0,1,0,3,0,0,0,0,0,0,0,1
+"Aug_2022_SP","Aug_2022","Spikarna","SP_64","Stuckenia_pectinata","0.65","no","no_info",0,37,0,0,0,0,0,1,2,0,0,0,0,23,14,18,3,0,0,0,0,1,0,0,0,0,0,0,0,2
+"Aug_2022_SP","Aug_2022","Spikarna","SP_65","Stuckenia_pectinata","0.9","yes","filamentous drift algae",0,39,0,0,1,0,0,0,6,0,0,13,0,6,3,10,1,0,0,0,0,2,0,0,0,1,0,0,0,3
+"Aug_2022_SP","Aug_2022","Spikarna","SP_66","Dictyosiphon_foeniculaceus","1.56","no","no_info",0,28,0,0,0,0,0,0,0,0,0,1,0,62,0,20,8,0,0,0,0,0,0,0,0,0,0,0,0,18
+"Aug_2022_SP","Aug_2022","Spikarna","SP_67","Dictyosiphon_foeniculaceus","0.39","no","no_info",0,14,0,0,0,0,0,1,0,0,0,0,0,4,0,28,9,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Aug_2022_SP","Aug_2022","Spikarna","SP_68","Dictyosiphon_foeniculaceus","0.72","no","no_info",0,14,0,0,0,0,0,0,0,0,0,1,0,12,0,44,14,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Aug_2022_SP","Aug_2022","Spikarna","SP_69","Dictyosiphon_foeniculaceus","1.47","no","no_info",0,19,0,0,0,0,0,0,0,0,0,0,0,1,0,8,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_49","Zostera_marina","0.44","no","no_info",0,0,0,1,0,0,0,1,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_50","Zostera_marina","0.41","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_51","Zostera_marina","0.57","no","no_info",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_52","Zostera_marina","0.47","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_53","Zostera_marina","0.39","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_54","Potamogeton_perfoliatus","0.11","yes","filamentous drift algae",0,0,0,0,0,3,0,0,0,0,0,2,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_55","Potamogeton_perfoliatus","0.18","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_56","Potamogeton_perfoliatus","0.41","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_57","Potamogeton_perfoliatus","0.26","yes","filamentous drift algae",0,0,0,0,1,1,0,0,0,0,0,8,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_59","Toluipella_nidifica","0.01","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_60","Toluipella_nidifica","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_61","Toluipella_nidifica","0.02","no","no_info",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_62","Toluipella_nidifica","0.02","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_63","Toluipella_nidifica","0.07","no","no_info",0,0,0,0,0,0,0,0,0,0,0,3,0,1,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_64","Zanichellia_sp.","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_65","Zanichellia_sp.","0.02","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_66","Zanichellia_sp.","0.01","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_67","Zanichellia_sp.","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_68","Zanichellia_sp.","0.02","no","no_info",0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_69","Stuckenia_pectinata","0.13","yes","filamentous drift algae",0,0,0,0,0,8,0,0,0,0,0,2,0,0,2,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_70","Stuckenia_pectinata","1.07","yes","filamentous drift algae",0,0,0,0,1,1,0,0,0,0,0,41,1,2,0,6,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_71","Stuckenia_pectinata","1","no","no_info",0,0,0,0,5,2,0,0,0,0,0,33,0,8,3,19,6,0,6,0,0,9,0,0,0,0,0,0,0,1
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_72","Stuckenia_pectinata","0.1","no","no_info",0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_73","Stuckenia_pectinata","0.4","no","no_info",0,0,0,0,0,2,0,0,0,0,0,20,0,2,2,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_74","Toluipella_nidifica","0.08","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_75","Corda_filum","0.3","yes","filamentous drift algae",0,0,0,0,0,1,0,0,0,0,0,4,0,1,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_76","Corda_filum","0.24","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_77","Corda_filum","0.1","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_78","Corda_filum","0.22","no","no_info",0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKO","Aug_2022","Henriksberg","HKO_79","Corda_filum","0.09","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_49","Zostera_marina","0.09","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_50","Zostera_marina","0.48","no","no_info",0,0,0,0,0,2,0,0,0,0,0,4,0,0,5,2,0,0,2,0,0,1,0,0,0,0,0,0,0,2
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_51","Zostera_marina","0.62","no","no_info",0,0,0,0,0,1,0,0,0,0,0,8,1,2,4,1,0,0,2,0,0,0,0,0,0,0,1,1,0,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_53","Potamogeton_perfoliatus","0.16","no","no_info",0,0,0,0,0,4,0,0,0,0,0,5,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_54","Potamogeton_perfoliatus","0.25","no","no_info",0,0,0,0,0,13,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_55","Potamogeton_perfoliatus","0.11","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_56","Potamogeton_perfoliatus","0.18","no","no_info",0,0,0,0,1,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_57","Potamogeton_perfoliatus","0.17","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_58","Myriophyllum_spicatum","0.6","no","no_info",0,0,0,0,0,11,0,0,0,0,0,8,0,0,4,20,0,0,3,0,0,0,0,0,0,0,0,0,0,1
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_59","Myriophyllum_spicatum",NA,"no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_60","Myriophyllum_spicatum","0.12","yes","filamentous drift algae",0,0,0,0,0,1,0,0,0,0,0,5,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_62","Myriophyllum_spicatum","0.21","yes","filamentous drift algae",0,0,0,0,0,3,0,0,0,0,0,4,0,0,3,75,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_63","Stuckenia_pectinata","0.4","yes","filamentous drift algae",0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_65","Stuckenia_pectinata","0.62","yes","filamentous drift algae",0,0,0,0,0,9,0,0,0,0,0,1,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_66","Stuckenia_pectinata","0.28","yes","filamentous drift algae",0,0,0,0,0,3,0,0,0,0,0,1,0,0,2,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_67","Stuckenia_pectinata","0.19","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_68","Toluipella_nidifica","0.04","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_69","Zanichellia_sp.","0.08","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_71","Zanichellia_sp.","0.11","yes","filamentous drift algae",0,0,0,0,0,1,0,0,0,0,0,2,0,1,2,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_HKI","Aug_2022","Henriksberg","HKI_72","Zanichellia_sp.","0.04","yes","filamentous drift algae",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_49","Ceratophyllum_demersum","0.13","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_50","Ceratophyllum_demersum","0.07","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_51","Ceratophyllum_demersum","0.31","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_52","Ceratophyllum_demersum","0.23","no","no_info",0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,3,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_53","Ceratophyllum_demersum","0.16","no","no_info",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_54","Myriophyllum_spicatum","0.45","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_55","Myriophyllum_spicatum","0.34","no","no_info",0,0,0,0,6,2,0,7,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,5,3,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_56","Myriophyllum_spicatum","0.38","no","no_info",0,0,2,0,4,0,0,9,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_57","Myriophyllum_spicatum","0.74","no","no_info",0,0,0,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,28,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_58","Myriophyllum_spicatum","1.17","no","no_info",0,0,0,0,19,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_63","Potamogeton_perfoliatus","0.39","no","no_info",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_64","Zostera_marina","0.48","no","no_info",0,0,0,0,4,0,0,1,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1,3,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_65","Zostera_marina","0.28","no","no_info",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_66","Zostera_marina","0.37","no","no_info",0,0,0,0,3,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_67","Zostera_marina","0.42","no","no_info",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_68","Zostera_marina","0.3","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_69","Zostera_marina","0.29","no","no_info",0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_70","Stuckenia_pectinata","0.1","no","no_info",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_71","Stuckenia_pectinata","0.17","no","no_info",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_74","Stuckenia_pectinata","0.07","no","no_info",0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABO","Aug_2022","Angbat","ABO_75","Stuckenia_pectinata","0.85","no","no_info",0,0,0,0,13,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,14,44,0
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_41","Fucus_vesiculosus","8.15","no","no_info",135,0,0,0,6,3,0,0,4,0,1,0,0,0,0,0,0,0,2,2,0,8,0,0,0,0,0,3,6,5
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_42","Fucus_vesiculosus","15.32","yes","no_info",75,6,0,0,8,3,0,0,6,0,1,0,0,58,0,0,0,0,2,1,0,34,0,0,0,0,5,2,0,18
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_43","Fucus_vesiculosus","4.8","no","no_info",0,0,0,0,11,6,0,1,1,0,1,1,0,7,0,0,0,0,1,3,0,6,0,0,0,0,0,3,19,4
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_44","Fucus_vesiculosus","14.71","no","no_info",75,0,0,0,7,13,0,0,1,0,1,5,0,0,2,0,0,0,6,7,0,16,0,0,0,0,0,11,3,2
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_45","Fucus_vesiculosus","10.31","no","no_info",50,0,0,0,10,14,0,0,0,0,1,4,0,0,0,0,0,0,5,5,0,4,0,0,0,0,0,5,0,4
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_46","Ceratophyllum_demersum","0.28","no","no_info",0,0,0,0,1,8,0,0,0,0,0,1,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_47","Ceratophyllum_demersum","0.63","no","no_info",0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,6,1
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_48","Ceratophyllum_demersum","1.46","no","no_info",0,0,0,0,15,25,0,3,2,0,0,0,0,0,1,0,0,3,0,4,0,2,0,0,0,0,0,3,6,1
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_49","Potamogeton_perfoliatus","1","no","no_info",0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_50","Potamogeton_perfoliatus","0.36","no","no_info",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_51","Potamogeton_perfoliatus","0.34","no","no_info",0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_52","Potamogeton_perfoliatus","0.95","no","no_info",0,0,1,0,1,4,0,0,0,0,0,0,1,5,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_54","Myriophyllum_spicatum","0.2","no","no_info",0,0,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_55","Myriophyllum_spicatum","0.18","no","no_info",0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_56","Myriophyllum_spicatum","1.02","no","no_info",0,0,0,0,19,9,0,1,0,0,0,1,0,1,1,2,0,2,0,0,0,0,0,0,0,0,0,2,4,0
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_57","Myriophyllum_spicatum","0.76","no","no_info",0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,2,0,2,0,1,0,0,0,0,0,1,1,0
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_58","Myriophyllum_spicatum","1.25","no","no_info",0,0,0,0,2,29,0,0,0,0,0,0,0,1,4,3,0,4,1,6,0,1,0,0,0,0,0,3,3,1
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_59","Myriophyllum_spicatum","0.27","no","no_info",0,0,0,0,0,15,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0,1,2,2
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_60","Stuckenia_pectinata","0.3","no","no_info",0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_61","Stuckenia_pectinata","0.16","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_62","Stuckenia_pectinata","0.17","no","no_info",0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_63","Stuckenia_pectinata","0.76","no","no_info",0,0,0,0,3,20,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,9,1,0
+"Aug_2022_ABI","Aug_2022","Angbat","ABI_64","Stuckenia_pectinata","1.75","no","no_info",0,0,0,0,11,10,0,1,1,0,0,0,0,1,0,0,0,2,0,5,0,0,0,0,0,0,0,15,3,0
+"Sept_2022_SP","Sept_2022","Spikarna","SP_71","Fucus_vesiculosus","21.23","no","no_info",0,6,0,0,0,0,0,0,6,0,0,7,0,0,7,2,0,0,0,0,0,10,0,0,0,0,0,0,0,76
+"Sept_2022_SP","Sept_2022","Spikarna","SP_72","Fucus_vesiculosus","24.53","no","no_info",0,25,0,0,1,0,0,0,34,0,1,5,0,0,15,1,0,0,0,0,0,38,0,1,0,0,0,0,0,76
+"Sept_2022_SP","Sept_2022","Spikarna","SP_73","Fucus_vesiculosus","11.81","no","no_info",0,24,0,0,0,0,0,0,10,0,0,6,0,0,26,0,0,0,0,0,0,1,0,0,1,0,0,0,0,46
+"Sept_2022_SP","Sept_2022","Spikarna","SP_74","Fucus_vesiculosus","24.79","no","no_info",1,13,0,0,0,0,0,0,6,0,1,13,0,0,36,2,0,0,3,0,0,36,0,2,0,0,0,0,0,53
+"Sept_2022_SP","Sept_2022","Spikarna","SP_75","Fucus_vesiculosus","17","no","no_info",0,20,0,0,0,0,0,0,1,0,0,38,0,0,31,3,0,0,0,0,0,37,0,0,0,0,0,0,0,30
+"Sept_2022_SP","Sept_2022","Spikarna","SP_76","Zanichellia_sp.","0.12","no","no_info",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_SP","Sept_2022","Spikarna","SP_77","Zanichellia_sp.","0.05","no","no_info",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_SP","Sept_2022","Spikarna","SP_78","Zanichellia_sp.","0.05","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+"Sept_2022_SP","Sept_2022","Spikarna","SP_79","Zanichellia_sp.","0.14","no","no_info",0,6,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_SP","Sept_2022","Spikarna","SP_80","Zanichellia_sp.","0.05","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Sept_2022_SP","Sept_2022","Spikarna","SP_81","Stuckenia_pectinata","1.33","no","no_info",0,5,0,0,0,0,0,0,0,0,0,0,0,0,1,25,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Sept_2022_SP","Sept_2022","Spikarna","SP_82","Stuckenia_pectinata","0.97","no","no_info",0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,2,0,0,0,0,0,0,0,4
+"Sept_2022_SP","Sept_2022","Spikarna","SP_83","Stuckenia_pectinata","1.08","no","no_info",0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,1,0,0,0,0,0,0,0,5
+"Sept_2022_SP","Sept_2022","Spikarna","SP_84","Stuckenia_pectinata","0.55","no","no_info",0,7,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,2,0,0,0,0,0,0,0,6
+"Sept_2022_SP","Sept_2022","Spikarna","SP_85","Stuckenia_pectinata","0.41","no","no_info",0,15,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_76","Zostera_marina","0.14","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_77","Zostera_marina","0.24","no","no_info",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_78","Zostera_marina","0.27","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_79","Zostera_marina","0.25","no","no_info",0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_80","Zostera_marina","0.33","no","no_info",0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_81","Zanichellia_sp.","0.05","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_84","Zanichellia_sp.","0.07","no","no_info",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_85","Zanichellia_sp.","0.05","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_86","Potamogeton_perfoliatus","0.22","no","no_info",0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,3,9,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_87","Potamogeton_perfoliatus","0.5","no","no_info",0,0,0,0,6,6,0,0,0,0,0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0,18,9,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_88","Potamogeton_perfoliatus","0.26","no","no_info",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_89","Potamogeton_perfoliatus","0.49","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_90","Potamogeton_perfoliatus","0.06","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_91","Myriophyllum_spicatum","1.73","no","no_info",8,0,0,0,7,13,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,85,0,1
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_92","Myriophyllum_spicatum","0.31","no","no_info",0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_93","Myriophyllum_spicatum","0.22","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_94","Myriophyllum_spicatum","0.1","no","no_info",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_95","Myriophyllum_spicatum","0.06","no","no_info",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_96","Stuckenia_pectinata","0.12","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_97","Stuckenia_pectinata","0.17","no","no_info",0,0,0,0,2,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,0,29,2,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_98","Stuckenia_pectinata","0.1","no","no_info",0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,1,1
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_99","Stuckenia_pectinata","0.11","no","no_info",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_100","Stuckenia_pectinata","0.23","no","no_info",0,0,0,0,0,3,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_101","Ceratophyllum_demersum","0.06","no","no_info",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_102","Ceratophyllum_demersum","0.24","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,4,1,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_103","Ceratophyllum_demersum","0.34","no","no_info",0,0,0,0,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_104","Ceratophyllum_demersum","0.18","no","no_info",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0
+"Sept_2022_ABO","Sept_2022","Angbat","ABO_105","Ceratophyllum_demersum","0.54","no","no_info",0,0,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,8,0
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_65","Fucus_vesiculosus","32.71","no","no_info",100,0,0,0,21,14,0,0,2,0,1,6,0,2,0,0,0,0,2,88,1,37,0,0,0,0,1,37,0,23
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_66","Fucus_vesiculosus","4.77","no","no_info",75,2,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,3,0,4
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_67","Fucus_vesiculosus","25.2","no","no_info",35,0,0,0,6,16,0,0,3,0,1,1,0,3,0,1,0,0,11,50,4,45,0,0,0,0,0,125,0,24
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_68","Fucus_vesiculosus","9.18","no","no_info",35,0,0,0,12,7,0,0,0,0,1,1,0,11,0,0,0,0,6,10,1,10,0,0,0,0,0,20,0,38
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_69","Fucus_vesiculosus","4.45","no","no_info",10,0,0,0,3,3,0,0,0,0,1,0,0,3,0,0,0,0,1,3,0,7,0,0,0,0,1,16,0,9
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_70","Myriophyllum_spicatum","0.62","no","no_info",0,0,0,0,5,17,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,5,0,0,0,0,0,12,0,0
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_71","Myriophyllum_spicatum","2.07","no","no_info",0,0,0,0,9,55,0,0,0,0,0,1,0,4,0,1,0,0,0,6,0,16,0,0,0,0,0,42,0,3
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_72","Myriophyllum_spicatum","0.2","no","no_info",0,0,0,0,0,16,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,13,5,0
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_73","Potamogeton_perfoliatus","0.34","no","no_info",0,0,0,0,0,13,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,4,0,0,0,0,1,7,1,2
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_74","Potamogeton_perfoliatus","0.41","no","no_info",0,0,0,0,2,10,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,9,0,4
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_75","Potamogeton_perfoliatus","0.27","no","no_info",1,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,1
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_76","Potamogeton_perfoliatus","0.33","no","no_info",0,0,0,0,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,4
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_77","Stuckenia_pectinata","0.64","no","no_info",0,0,0,0,0,26,0,0,0,0,0,0,0,0,1,4,0,0,0,1,0,1,0,0,0,0,1,12,0,1
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_78","Stuckenia_pectinata","1.19","no","no_info",7,0,0,0,2,47,0,0,0,0,1,0,0,2,1,0,0,0,0,1,7,13,0,0,0,0,0,60,1,1
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_79","Stuckenia_pectinata","0.41","no","no_info",1,1,0,0,1,13,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,1
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_80","Stuckenia_pectinata","0.07","no","no_info",0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Sept_2022_ABI","Sept_2022","Angbat","ABI_81","Stuckenia_pectinata","1.07","no","no_info",0,1,0,0,1,58,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,39,2,4
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_80","Stuckenia_pectinata","0.78","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_81","Stuckenia_pectinata","0.42","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,33,0,0,1,0,0,0,0,0,0,0,0,2,0,0
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_82","Stuckenia_pectinata","1.15","no","no_info",0,0,0,1,2,0,0,0,0,0,0,0,0,1,4,47,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_83","Stuckenia_pectinata","0.24","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,0,0,0,2,0,0,0,0,0,0,0,5,0,1
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_84","Stuckenia_pectinata","0.41","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_85","Potamogeton_perfoliatus","0.1","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0,0,0,1,0,0,0,0,0,0,0,1,0,2
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_86","Potamogeton_perfoliatus","0.12","no","no_info",0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_87","Potamogeton_perfoliatus","0.28","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_88","Potamogeton_perfoliatus","0.11","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_91","Zostera_marina","0.26","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_92","Zostera_marina","0.9","no","no_info",0,0,0,0,0,0,0,0,0,0,0,3,3,0,2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_93","Zostera_marina","0.35","no","no_info",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_96","Ruppia_sp.","0.13","no","no_info",0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,3,0,0,0,0,0,2,0,0,0,0,0,0,0,3
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_97","Ruppia_sp.","0.06","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_98","Ruppia_sp.","0.05","no","no_info",0,0,0,0,0,1,0,0,0,0,0,1,0,3,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_99","Ruppia_sp.","0.1","no","no_info",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_100","Ruppia_sp.","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_101","Zanichellia_sp.","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_103","Zanichellia_sp.","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_104","Zanichellia_sp.","0.1","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKO","Sept_2022","Henriksberg","HKO_105","Zanichellia_sp.","0.02","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_73","Potamogeton_perfoliatus","0.12","no","no_info",0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_74","Potamogeton_perfoliatus","0.1","no","no_info",0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,5,0,0,2,0,0,0,0,0,0,0,0,0,0,1
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_75","Potamogeton_perfoliatus","0.12","no","no_info",0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_76","Potamogeton_perfoliatus","0.13","no","no_info",0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_77","Potamogeton_perfoliatus","0.11","no","no_info",0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_78","Zostera_marina","0.19","no","no_info",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_79","Zostera_marina","0.15","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,8,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_81","Zostera_marina","0.23","no","no_info",0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,11,0,0,1,0,0,0,0,0,0,1,1,0,0,1
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_82","Zostera_marina","0.36","no","no_info",0,0,0,0,0,0,0,0,0,0,0,5,0,7,1,38,0,1,1,0,0,0,0,0,0,0,0,0,0,4
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_83","Zanichellia_sp.","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_84","Zanichellia_sp.","0.03","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_85","Zanichellia_sp.","0.02","no","no_info",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_86","Zanichellia_sp.","0.02","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_87","Zanichellia_sp.","0.05","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_88","Myriophyllum_spicatum","0.73","no","no_info",0,0,0,0,1,0,0,0,0,0,0,20,0,3,0,115,0,0,1,0,0,0,0,0,0,0,0,0,0,3
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_90","Myriophyllum_spicatum","0.19","no","no_info",0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_91","Myriophyllum_spicatum","0.21","no","no_info",0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_92","Myriophyllum_spicatum","0.23","no","no_info",0,0,0,0,0,0,0,0,0,0,0,12,0,5,2,10,0,0,0,2,0,0,0,0,0,0,0,0,0,2
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_93","Stuckenia_pectinata","0.29","yes","Ceramium tenuicorne",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_94","Stuckenia_pectinata","0.37","no","no_info",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,30,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_95","Stuckenia_pectinata","0.95","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_96","Stuckenia_pectinata","0.36","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+"Sept_2022_HKI","Sept_2022","Henriksberg","HKI_97","Stuckenia_pectinata","0.32","no","no_info",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,1,0,0,0,0
